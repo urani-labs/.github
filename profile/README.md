@@ -7,7 +7,7 @@
 * **[🟪 Urani Labs](https://www.urani.xyz)**
 
   * 🤝🏻 **[We won 1st place at Solana's Colosseum Hackathon (DeFi Track)](https://twitter.com/ColosseumOrg/status/1787468985929212264)** and we're joining **[Solana's Colosseum Accelerator](https://www.colosseum.org/accelerator)** in **Q2/2024**.
-  * 🛹 We are launching **[Urani Swap](https://www.urani.ag)** and **[Urani Arena](https://arena.urani.ag/)** this Summer, just in time for the skateboarding Olympics games!
+  * 🛹 We are launching **[Urani Swap](https://www.urani.ag)** and **[Urani Arena](https://arena.urani.ag/)** this **[Summer](https://docs.urani.ag/urani-labs-docs/roadmap)**, just in time for the skateboarding Olympics games!
   * 🧑🏻‍🔬 Calling all scientists, PhD students, mathematicians, physicists: **[come develop optimization strategies with us](https://www.urani.xyz/careers)**!
 
     
