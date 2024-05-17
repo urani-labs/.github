@@ -7,7 +7,7 @@
 ### [🟪 Urani Labs](https://www.urani.xyz)
 
 * 🤝🏻 We won 1st places at **[Solana's Colosseum Hackathon (DeFi Track)](https://twitter.com/ColosseumOrg/status/1787468985929212264)** and the **[SuperteamDE's local competition](https://twitter.com/SuperteamDAO)**. 
-* 🏟️ During May and June, we are joining **[Solana's Colosseum Accelerator](https://blog.colosseum.org/introducing-colosseum-accelerator-cohort-1/)** and hanging out **[Berlin Blockchain Week 2024](https://blockchainweek.berlin/24)** and **[IslandDAO](https://twitter.com/IslandDAOx)**. Come say hi.
+* 🏟️ During May and June, we are joining **[Solana's Colosseum Accelerator](https://blog.colosseum.org/introducing-colosseum-accelerator-cohort-1/)** and hanging out at **[Berlin Blockchain Week 2024](https://blockchainweek.berlin/24)** and **[IslandDAO](https://twitter.com/IslandDAOx)**. Come say hi.
 * 🛹 **[Urani Swap](https://www.urani.ag)** and **[Urani Arena](https://arena.urani.ag/)** will be **[beta launched](https://docs.urani.ag/urani-labs-docs/roadmap)** at Colosseum’s first Demo Day. If you are an investor interested in joining, you might apply at the official Colosseum's form, **[here](https://5m60ilpmt4a.typeform.com/to/KIBUwXjL?ref=blog.colosseum.org&typeform-source=blog.colosseum.org)**.
 
     
