@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://github.com/urani-labs/.github/assets/162904807/2e5e5280-dfb4-42f1-9628-0ba76cb903f0" width="80%" align="center" style="padding:1px;border:1px solid black;"/>
+<img src="https://github.com/urani-labs/.github/assets/162904807/3935fa0a-ed74-4c50-907e-e28b916fe278" width="75%" align="center" style="padding:1px;border:1px solid black;"/>
 </p>
-
 
 <br>
 
