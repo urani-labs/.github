@@ -7,5 +7,6 @@
 
 <br>
 
+* We're heading to Vienna this week for **[ICML's Agentic Markets day](agenticmarkets.xyz)**. Who else is joining this Austrian affair?
 * Our high-level discussion of a deep learning experiment modeling trading agents (and MEV bots) with reinforcement learning through Markov Decision Process: **[On Training DeFi Agents with Markov Chains](https://www.urani.trade/blog/markov_agents)**.
 * Welcome **[@luca-nik](https://github.com/luca-nik)** to the MEV Agents team. Learn about our new researcher engineer (and just-about-to-graduate Theoretical and Computational Chemistry Ph.D.) in his debut post: **[On MEV Agents and Forward Routing Problems](https://www.urani.trade/blog/welcome_luca)**.
