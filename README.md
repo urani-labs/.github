@@ -3,12 +3,12 @@
 <br>
 <br>
 
-### Welcome to Urani, Solana's intent-based suite.
+### Welcome to urani.trade
 
 <br>
 <br>
 
-#### We are gamifying decentralized finance to enable uniquely secure trading on Solana through state-of-the-art protection against toxic MEV at the application layer.
+#### We are gamifying decentralized finance to minimize toxic-MEV at the application layer through multiple incentives, fostering fair free markets.
 
 <br>
 <br>
