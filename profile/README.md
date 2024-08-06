@@ -7,7 +7,7 @@
 
 <br>
 
-* What we are reading: **[The Internet of Agents, by Davide Crapis](https://davidecrapis.notion.site/The-Internet-of-Agents-23aa09799b9c4620a1a287926bcfd6af)** (Thanks, Barnabé Monnot, for the ref).
+* What we are reading: **[The Internet of Agents, by Davide Crapis](https://davidecrapis.notion.site/The-Internet-of-Agents-23aa09799b9c4620a1a287926bcfd6af)** (Thanks, Barnabé Monnot, for the ref) and **[A High-level overview of FHE, by Jeremy Kun](https://www.jeremykun.com/2024/05/04/fhe-overview/#the-highest-level-view)**
 * Check out this great article on spot aggregators and toxic-MEV protection, by our friend Tomas Fanta: **[MEV meets Aggregation](https://medium.com/@tomasjfanta/mev-meets-aggregation-732aad4b57a4)**.
 * Our high-level discussion of a deep learning experiment modeling trading agents (and MEV bots) with reinforcement learning through Markov Decision Process: **[On Training DeFi Agents with Markov Chains](https://www.urani.trade/blog/markov_agents)**.
 * Welcome **[@luca-nik](https://github.com/luca-nik)** to the MEV Agents team. Learn about our new researcher engineer (and just-about-to-graduate Theoretical and Computational Chemistry Ph.D.) in his debut post: **[On MEV Agents and Forward Routing Problems](https://www.urani.trade/blog/welcome_luca)**.
